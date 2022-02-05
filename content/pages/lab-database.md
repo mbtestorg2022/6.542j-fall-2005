@@ -28,16 +28,117 @@ The following utterances were recorded by both male and female speakers:
 
 1.  English Vowels
     
-    | # | SPEAKERS |
-    | --- | --- |
-    | 1 | beat | bit |
-    | 2 | bait | bet |
-    | 3 | pot | but |
-    | 4 | boat | bought |
-    | 5 | put | boot |
-    | 6 | bat | Bert |
-    | 7 | buy | boy |
-    | 8 | about |  
+    {{< tableopen >}}
+    {{< theadopen >}}
+    {{< tropen >}}
+    {{< thopen >}}
+    #
+    {{< thclose >}}
+    {{< thopen >}}
+    SPEAKERS
+    {{< thclose >}}
+    
+    {{< trclose >}}
+    
+    {{< theadclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    1
+    {{< tdclose >}}
+    {{< tdopen >}}
+    beat
+    {{< tdclose >}}
+    {{< tdopen >}}
+    bit
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    2
+    {{< tdclose >}}
+    {{< tdopen >}}
+    bait
+    {{< tdclose >}}
+    {{< tdopen >}}
+    bet
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    3
+    {{< tdclose >}}
+    {{< tdopen >}}
+    pot
+    {{< tdclose >}}
+    {{< tdopen >}}
+    but
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    4
+    {{< tdclose >}}
+    {{< tdopen >}}
+    boat
+    {{< tdclose >}}
+    {{< tdopen >}}
+    bought
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    5
+    {{< tdclose >}}
+    {{< tdopen >}}
+    put
+    {{< tdclose >}}
+    {{< tdopen >}}
+    boot
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    6
+    {{< tdclose >}}
+    {{< tdopen >}}
+    bat
+    {{< tdclose >}}
+    {{< tdopen >}}
+    Bert
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    7
+    {{< tdclose >}}
+    {{< tdopen >}}
+    buy
+    {{< tdclose >}}
+    {{< tdopen >}}
+    boy
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    8
+    {{< tdclose >}}
+    {{< tdopen >}}
+    about
+    {{< tdclose >}}
+    {{< tdopen >}}
+    
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
       
     
@@ -45,20 +146,165 @@ The following utterances were recorded by both male and female speakers:
     
       
     
-    | # | SPEAKERS |
-    | --- | --- |
-    | 9 | the putt | the bug |
-    | 10 | the tug | the duck |
-    | 11 | the cut | the gut |
-    | 12 | the mug | the nut |
-    | 13 | the fuss | the vanilla |
-    | 14 | the thug | the "the" |
-    | 15 | the supper | the shutter |
-    | 16 | the rug | the lug |
-    | 17 | the wonder | the young |
-    | 18 | the chump | the jump |
-    | 19 | the hut | sung a song |
-    | 20 | the /zah/ | the /zhah/ 
+    {{< tableopen >}}
+    {{< theadopen >}}
+    {{< tropen >}}
+    {{< thopen >}}
+    #
+    {{< thclose >}}
+    {{< thopen >}}
+    SPEAKERS
+    {{< thclose >}}
+    
+    {{< trclose >}}
+    
+    {{< theadclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    9
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the putt
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the bug
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    10
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the tug
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the duck
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    11
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the cut
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the gut
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    12
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the mug
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the nut
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    13
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the fuss
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the vanilla
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    14
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the thug
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the "the"
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    15
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the supper
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the shutter
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    16
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the rug
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the lug
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    17
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the wonder
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the young
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    18
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the chump
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the jump
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    19
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the hut
+    {{< tdclose >}}
+    {{< tdopen >}}
+    sung a song
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    20
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the /zah/
+    {{< tdclose >}}
+    {{< tdopen >}}
+    the /zhah/
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
       
     
@@ -66,20 +312,129 @@ The following utterances were recorded by both male and female speakers:
     
       
     
-    | # | SPEAKERS |
-    | --- | --- |
-    | 21 | teacher |
-    | 22 | He wanted to rebel |
-    | 23 | school |
-    | 24 | high school teacher |
-    | 25 | He stopped the rebel |
-    | 26 | school teacher |
-    | 27 | tall school teacher |
-    | 28 | Was he a high school teacher? |
-    | 29 | The tall school teacher left early. |
-    | 30 | teach |
-    | 31 | We live in Cambridge and we study at MIT |
-    | 32 | He won those shoes. 
+    {{< tableopen >}}
+    {{< theadopen >}}
+    {{< tropen >}}
+    {{< thopen >}}
+    #
+    {{< thclose >}}
+    {{< thopen >}}
+    SPEAKERS
+    {{< thclose >}}
+    
+    {{< trclose >}}
+    
+    {{< theadclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    21
+    {{< tdclose >}}
+    {{< tdopen >}}
+    teacher
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    22
+    {{< tdclose >}}
+    {{< tdopen >}}
+    He wanted to rebel
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    23
+    {{< tdclose >}}
+    {{< tdopen >}}
+    school
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    24
+    {{< tdclose >}}
+    {{< tdopen >}}
+    high school teacher
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    25
+    {{< tdclose >}}
+    {{< tdopen >}}
+    He stopped the rebel
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    26
+    {{< tdclose >}}
+    {{< tdopen >}}
+    school teacher
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    27
+    {{< tdclose >}}
+    {{< tdopen >}}
+    tall school teacher
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    28
+    {{< tdclose >}}
+    {{< tdopen >}}
+    Was he a high school teacher?
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    29
+    {{< tdclose >}}
+    {{< tdopen >}}
+    The tall school teacher left early.
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    30
+    {{< tdclose >}}
+    {{< tdopen >}}
+    teach
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    31
+    {{< tdclose >}}
+    {{< tdopen >}}
+    We live in Cambridge and we study at MIT
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    {{< tropen >}}
+    {{< tdopen >}}
+    32
+    {{< tdclose >}}
+    {{< tdopen >}}
+    He won those shoes.
+    {{< tdclose >}}
+    
+    {{< trclose >}}
+    
+    {{< tableclose >}}
     
       
     
@@ -276,14 +631,75 @@ The words used to fill in the utterances are provided below:
 
   
 
-| Sentence C | Sentence D |
-| --- | --- |
-| the button | that fan |
-| the soccer | his can |
-| beware of | dish pan |
-| his ribbon | this pen |
-| her waking | big bomb |
-| his wiggle | this pen 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Sentence C
+{{< thclose >}}
+{{< thopen >}}
+Sentence D
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+the button
+{{< tdclose >}}
+{{< tdopen >}}
+that fan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+the soccer
+{{< tdclose >}}
+{{< tdopen >}}
+his can
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+beware of
+{{< tdclose >}}
+{{< tdopen >}}
+dish pan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+his ribbon
+{{< tdclose >}}
+{{< tdopen >}}
+this pen
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+her waking
+{{< tdclose >}}
+{{< tdopen >}}
+big bomb
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+his wiggle
+{{< tdclose >}}
+{{< tdopen >}}
+this pen
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 \[[top](#top)\]
