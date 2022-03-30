@@ -72,7 +72,7 @@ The Speech Chain
 
 Study of speech often summarized as the study of a chain of events, beginning with what goes on in a speaker's brain to plan an utterance, moving through the acoustics of speech and ending with the steps in the listener's brain that result in comprehension of the utterance:
 
-![Speech chain graphic.](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/syllabus/fa05hndout1fig1.jpg)
+{{< resource "bf6d61ad-f83a-7712-6306-f31aa749bcbf" >}}
 
 This approach makes clear the diversity of topics one must understand in some depth in order to do basic research in speech.
 

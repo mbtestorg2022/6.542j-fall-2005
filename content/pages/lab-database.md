@@ -500,8 +500,8 @@ You will use at least one of the following subsets of utterances recorded during
 You will use at least one of the following subsets of utterances recorded during [Lab 1](#lab1):
 
 *   The words "bug", "duck", "gut", "putt", "tug", "cut", "hut"
-*   The words "fuss", "thug", "supper", "shutter", "vanilla", "the", /z![schwa](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/lab-database/schwa.gif)/, /![zh](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/lab-database/zh.gif)![schwa](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/lab-database/schwa.gif)/
-*   The words "chump", "jump", "tug", "duck", "shutter", /![zh](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/lab-database/zh.gif)![schwa](/courses/electrical-engineering-and-computer-science/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/lab-database/schwa.gif)/
+*   The words "fuss", "thug", "supper", "shutter", "vanilla", "the", /z{{< resource "b2642051-9d9e-b3f1-9f56-b0c501efe100" >}}/, /{{< resource "fbbe0f79-4523-5b65-0a05-6c76f4ba6a45" >}}{{< resource "b2642051-9d9e-b3f1-9f56-b0c501efe100" >}}/
+*   The words "chump", "jump", "tug", "duck", "shutter", /{{< resource "fbbe0f79-4523-5b65-0a05-6c76f4ba6a45" >}}{{< resource "b2642051-9d9e-b3f1-9f56-b0c501efe100" >}}/
 
 \[[top](#top)\]
 

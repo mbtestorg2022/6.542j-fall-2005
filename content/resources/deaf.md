@@ -4,6 +4,7 @@ description: 'Lab 11: Introduction to Speech Disorders: Part 2: Utterances produ
   by deaf children and one normal-hearing adult'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/ce9335e08fabc28b7a068b5cc57b3b49_deaf.tar
 file_type: application/x-tar
+parent_uid: 10bc4420-56a8-8eaf-011f-1e0381b8f295
 resourcetype: Other
 title: deaf.tar
 uid: ce9335e0-8fab-c28b-7a06-8b5cc57b3b49

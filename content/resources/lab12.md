@@ -6,6 +6,7 @@ description: This file discusses the prcedure of acoustic correlates of prosodic
   (pitch accent), and irregular pitch periods as a marker of intonation phrase boundaries.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/130d4a163f180830d24ba3886057c466_lab12.pdf
 file_type: application/pdf
+parent_uid: 2b73a700-3d21-6417-3921-20167e6a6ee9
 resourcetype: Document
 title: lab12.pdf
 uid: 130d4a16-3f18-0830-d24b-a3886057c466

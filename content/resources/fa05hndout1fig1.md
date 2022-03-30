@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 60fff609-2ca6-e36d-7fa1-b5b09deac920
 resourcetype: Image
 title: fa05hndout1fig1.jpg
 uid: bf6d61ad-f83a-7712-6306-f31aa749bcbf

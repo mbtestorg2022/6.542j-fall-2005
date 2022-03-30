@@ -12,6 +12,7 @@ description: 'Lab 8: Prosody: Acoustic Evidence for Prosodic Constituent Structu
   form was produced twice by each speaker, for a total of 32 utterances.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-542j-laboratory-on-the-physiology-acoustics-and-perception-of-speech-fall-2005/537443bc65f0be81da983c1b2c2e9930_lab08.tar
 file_type: application/x-tar
+parent_uid: 10bc4420-56a8-8eaf-011f-1e0381b8f295
 resourcetype: Other
 title: lab08.tar
 uid: 537443bc-65f0-be81-da98-3c1b2c2e9930
